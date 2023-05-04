@@ -1,6 +1,6 @@
 # finaljuliett
 
-This document outlines the changes made to the login page for the University of North Alabama's website. As a part of ongoing efforts to improve the user experience for students, it was observed that the login page was missing a crucial feature - the forgot password button.
+The changes made to the login page for the University of North Alabama's website. As a part of ongoing efforts to improve the user experience for students, it was observed that the login page was missing a crucial feature - the forgot password button.
 
 Previously, students who forgot their password had to either email the IT department or physically visit the department in the library to reset their password. This process was time-consuming and caused inconvenience to many students who needed to access their accounts urgently. In today's fast-paced society, waiting for hours to reset a password is not an acceptable option.
 
