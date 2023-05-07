@@ -1,6 +1,7 @@
 body {
 	background-color: #F2F2F2;
   background-image: url(https://roarlions.com/images/2020/12/8/LeoIII.jpg);
+  background-repeat: no-repeat;
   font-weight:normal;
   font-family:"Segoe UI" , "Segoe" , "SegoeUI-Regular-final", Tahoma, Helvetica, Arial, sans-serif;
 }
@@ -73,7 +74,8 @@ body {
 }
 
 .container {
-	width: 400px;
+	width: 513px;
+	height: auto;
 	margin: 100px auto;
 	background-color: #FFFFFF;
 	border-radius: 10px;
@@ -133,3 +135,12 @@ input[type="submit"]:hover {
 .back-to-login a:hover {
 	text-decoration: underline;
 }
+
+/* Footer styling */
+
+footer {
+	padding: 10px;
+	text-align: center;
+	font-size: 18px;
+  }
+  
