@@ -42,7 +42,7 @@ input[type="password"] {
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
-input[type="submit"] {
+input[type="button"] {
 	background-color: #FFC72C;
 	color: #663300;
 	padding: 10px;
